@@ -10,8 +10,10 @@ libraryDependencies ++= Seq(
   jdbc,
   cache,
   ws,
-  specs2 % Test
+  specs2 % Test,
+  "org.reactivemongo" %% "play2-reactivemongo" % "0.11.9"
 )
+
 
 resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
 
