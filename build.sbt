@@ -1,4 +1,4 @@
-name := """play-scala"""
+name := """knowledge-tree"""
 
 version := "1.0-SNAPSHOT"
 
