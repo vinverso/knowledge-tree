@@ -11,6 +11,9 @@ target
 
 project/.sbtserver
 
+<<<<<<< HEAD
 project/.sbtserver
 
 conf/application.conf
+=======
+>>>>>>> 883754782551c6d8101b4031440f99201bc2b859
